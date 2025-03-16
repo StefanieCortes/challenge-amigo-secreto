@@ -10,21 +10,6 @@
 
 Este proyecto es una aplicación web en **JavaScript** que permite a los usuarios ingresar nombres en una lista y realizar un sorteo aleatorio para determinar quién es el "Amigo Secreto".
 
-
-## 📌 Tabla de Contenido
-
-- [Descripción](#descripción)
-- [Comenzando](#comenzando)
-  - [Pre-requisitos](#pre-requisitos)
-  - [Instalación](#instalación)
-- [Uso](#uso)
-- [Ejecutando las Pruebas](#ejecutando-las-pruebas)
-  - [Pruebas Manuales](#pruebas-manuales)
-- [Despliegue](#despliegue)
-- [Construido con](#construido-con)
-- [Autor](#autor)
-- [Licencia](#licencia)
-
 ## 🚀 Comenzando
 
 Sigue estas instrucciones para obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas.
