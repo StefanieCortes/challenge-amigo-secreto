@@ -1,4 +1,4 @@
-# Amigo Secreto 🎉
+# Juego Amigo Secreto 🎉
 
 ![Portada del Proyecto](assets/portada-amigo-secreto.png)
 
